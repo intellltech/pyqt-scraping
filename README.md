@@ -1,4 +1,4 @@
-## PyQT5 Scapping application
+## PyQT5 Scrapping application
 ![Banner](https://github.com/intellltech/pyqt-scraping/blob/main/figures/a.png)
 
 
