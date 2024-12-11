@@ -1,0 +1,6 @@
+dist/
+build/
+__pycache__
+*.jl
+output.log
+testdata/*
